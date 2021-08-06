@@ -27,7 +27,5 @@ elif player == 'tesoura':
         print('Você perdeu')
 else:
     print('Há algum erro de digitação em sua jogada')
-    
-print('Hello Git')
  
 
