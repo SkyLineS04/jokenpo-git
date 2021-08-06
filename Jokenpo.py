@@ -26,6 +26,6 @@ elif player == 'tesoura':
     else:
         print('Você perdeu')
 else:
-    print('Há um erro de digitação em sua jogada')
+    print('Há algum erro de digitação em sua jogada')
  
 
